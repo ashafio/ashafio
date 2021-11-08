@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashafio" target="blank"><img src="https://img.shields.io/twitter/follow/ashafio?logo=twitter&style=for-the-badge" alt="ashafio" /></a> </p>
 
-- 🔭 I’m currently working on [Shopping mall management system](https://github.com/users/ashafio/projects/1)
+- 🔭 I’m currently working on Java Swing Project
 
 - 🌱 I’m currently learning **JavaScipt and Java**
 
