@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Shafi</h1>
-<h4 align="center">A passionate learner</h4>
+<h1 align="center">Hello, I'm Shafi</h1>
+<h4 align="center">learner</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashafio&label=Profile%20views&color=0e75b6&style=flat" alt="ashafio" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ashafio" target="blank"><img src="https://img.shields.io/twitter/follow/ashafio?logo=twitter&style=for-the-badge" alt="ashafio" /></a> </p>
 
-- 🔭 I’m currently working on Java Swing Project
+- 🔭 I’m currently working on Android Project
 
-- 🌱 I’m currently learning **JavaScipt and Java**
+- 🌱 I’m currently learning **JavaScipt and Kotlin**
 
 - 💬 Ask me about **react.js,node.js,three.js**
 
