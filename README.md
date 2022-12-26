@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ashafio" target="blank"><img src="https://img.shields.io/twitter/follow/ashafio?logo=twitter&style=for-the-badge" alt="ashafio" /></a> </p>
 
-- 🔭 I’m currently working on Android Project
+- 🔭 I’m currently working on Flutter based Android Project.
 
-- 🌱 I’m currently learning **JavaScipt and Kotlin**
+- 🌱 I’m currently learning **JavaScipt and Dart**
 
 - 💬 Ask me about **react.js,node.js,three.js**
 
