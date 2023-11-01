@@ -1,17 +1,17 @@
-<h1 align="center">Hello, I'm Shafi</h1>
-<h4 align="center">learner</h4>
+<h1 align="center">Hello, I'm Shafi, A Full Stack Web Developer 💻</h1>
+<h4 align="center">📚 Lifelong Learner</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashafio&label=Profile%20views&color=0e75b6&style=flat" alt="ashafio" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ashafio" target="blank"><img src="https://img.shields.io/twitter/follow/ashafio?logo=twitter&style=for-the-badge" alt="ashafio" /></a> </p>
 
-- 🔭 I’m currently working on Flutter based Android Project.
+- 🔭 I’m currently working on MERN Stack Web Projects.
 
-- 🌱 I’m currently learning **JavaScipt and Dart**
+- 🌱 I’m currently learning **Next.js, Sanity, & Appwrite**
 
-- 💬 Ask me about **react.js,node.js,three.js**
+- 💬 Ask me about **react.js,node.js,three.js || Flutter, ARCore(Augmented Reality)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect</h3>
 <p align="left">
 <a href="https://twitter.com/ashafio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashafio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashafio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashafio" height="30" width="40" /></a>
